@@ -14,6 +14,8 @@ export const AppBarText = styled.p`
   line-height: 21px;
 
   color: #36392d;
+
+  cursor: pointer;
 `;
 
 export const AppBarSide = styled.div`

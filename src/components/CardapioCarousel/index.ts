@@ -1,0 +1,1 @@
+export { default as CardapioCarousel } from './CardapioCarousel.tsx'

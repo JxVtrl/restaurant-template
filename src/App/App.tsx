@@ -1,4 +1,12 @@
-import { AppBar, TopCarousel, TopTexts, Cardapio } from "../components";
+import {
+  AppBar,
+  TopCarousel,
+  TopTexts,
+  Cardapio,
+  Team,
+  Events,
+  Footer,
+} from "../components";
 
 function App() {
   return (
@@ -7,6 +15,9 @@ function App() {
       <TopTexts />
       <TopCarousel />
       <Cardapio />
+      <Team />
+      <Events />
+      <Footer />
     </>
   );
 }

@@ -1,0 +1,10 @@
+export { appetizers } from "./appetizers";
+export { pastas } from "./pastas";
+export { pizzas } from "./pizzas";
+export { salads } from "./salads";
+export { soups } from "./soups";
+export { desserts } from "./desserts";
+export { beers } from "./beers";
+export { cocktails } from "./cocktails";
+export { wines } from "./wines";
+export { team } from "./team";
