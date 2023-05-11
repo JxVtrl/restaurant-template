@@ -90,7 +90,7 @@ const CardapioCarousel: React.FC = () => {
 
   return (
     <>
-      <Flex mb="80px">
+      <Flex mb="80px" w='100%'>
         <Swiper
           modules={[Autoplay]}
           spaceBetween={40}
