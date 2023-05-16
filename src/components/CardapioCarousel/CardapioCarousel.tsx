@@ -1,10 +1,10 @@
 import { Divider, Flex, Image, Text } from "@chakra-ui/react";
 import React, { useEffect, useState } from "react";
-import SwiperCore, { Autoplay } from "swiper";
-import { Swiper, SwiperSlide } from "swiper/react";
+
+import SwiperCore,{ Autoplay } from "swiper";
+import  { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/swiper-bundle.min.css";
 import "swiper/swiper.min.css";
-import { ArrowBackIcon, ArrowForwardIcon } from "@chakra-ui/icons";
 import { useApp } from "../../context/AppContext";
 
 import {
