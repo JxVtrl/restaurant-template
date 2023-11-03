@@ -1,7 +1,7 @@
 import { Divider, Flex, Image, Text } from "@chakra-ui/react";
 import React, { useEffect, useState } from "react";
 
-import SwiperCore,{ Autoplay } from "swiper";
+import SwiperCore, { Autoplay} from "swiper";
 import  { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/swiper-bundle.min.css";
 import "swiper/swiper.min.css";
